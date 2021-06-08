@@ -1,0 +1,17 @@
+{
+  "id": "1",
+  "createdAt": "   12hr ago",
+  "title": "SoulTube || YouTube Clone || Comming Soon",
+  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail1.jpeg",
+  "videoUrl": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4",
+  "duration": 384,
+  "user": {
+    "name": "Rishav Kumar   ",
+    "image": "https://avatars.githubusercontent.com/u/81378195?s=400&u=1a4e72c96a92be6b25e3e4090847184b5adf4f91&v=4",
+    "subscribers": 100000
+  },
+  "views":   35700,
+  "tags": "#Rishav #Bittu #Chiku",
+  "likes": 3759,
+  "dislikes": 53
+}

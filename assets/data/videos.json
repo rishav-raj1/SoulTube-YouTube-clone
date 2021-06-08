@@ -1,0 +1,103 @@
+[{
+  "id": "1",
+  "createdAt": "   8hr ago",
+  "title": "Being Single Is Awesome ",
+  "thumbnail": "https://wallpapercave.com/wp/wp3719993.jpg",
+  "videoUrl": "",
+  "duration": 466,
+  "user": {
+    "name": "Rishav Kumar   ",
+    "image": "https://avatars.githubusercontent.com/u/81378195?s=400&u=1a4e72c96a92be6b25e3e4090847184b5adf4f91&v=4"
+  },
+  "views": 23654
+}, 
+
+{
+  "id": "2",
+  "createdAt": "   13hr ago",
+  "title": "How To Start A Conversation With Your Crush",
+  "thumbnail": "https://wallpapercave.com/wp/wp6587731.jpg",
+  "videoUrl": "",
+  "duration": 966,
+  "user": {
+    "name": "Divyanshi   ",
+    "image": "https://scontent.fixr3-1.fna.fbcdn.net/v/t1.18169-9/16641111_362896990762082_2563988341166594590_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=9267fe&_nc_ohc=WhmLl6tSlQYAX_A5oSO&_nc_ht=scontent.fixr3-1.fna&oh=e1c5dc87a1f3cbbc20a563952837ddf2&oe=60E31F1D"
+  },
+  "views": 31965
+}, {
+  "id": "3",
+  "createdAt": "   10hr ago",
+  "title": "How To Impress Your Crush",
+  "thumbnail": "https://wallpapercave.com/wp/wp9049420.jpg",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Radhika   ",
+    "image": "https://scontent.fixr3-1.fna.fbcdn.net/v/t1.6435-9/93788355_1076653296053111_759773555679297536_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=9267fe&_nc_ohc=JcXoZevvwC4AX-JlVQE&_nc_ht=scontent.fixr3-1.fna&oh=87ad8194f49d57a593a27efba1a011a9&oe=60E39122"
+  },
+  "views": 257000
+},{
+  "id": "4",
+  "createdAt": "    19hr ago",
+  "title": "How To Become a Full Stack Web Developer and Billionaire",
+  "thumbnail": "https://wallpapercave.com/wp/wp6784383.jpg",
+  "videoUrl": "",
+  "duration": 744,
+  "user": {
+    "name": "Anshuaman   ",
+    "image": "https://avatars.githubusercontent.com/u/41585919?v=4"
+  },
+  "views": 257000
+},
+ {
+  "id": "5",
+  "createdAt": "   16hr ago",
+  "title": "How To Ask For A First Date",
+  "thumbnail": "https://wallpapercave.com/wp/wp8306298.jpg",
+  "videoUrl": "",
+  "duration": 654,
+  "user": {
+    "name": "Shreya   ",
+    "image": "https://scontent.fixr3-1.fna.fbcdn.net/v/t1.18169-9/16729143_363824994002615_178005418271507652_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=9267fe&_nc_ohc=Ka2XKg3J3LkAX-bsNI4&tn=A5g-lsPONzeE2aeb&_nc_ht=scontent.fixr3-1.fna&oh=7e6d194e0521bffd8c1f08ab2983382a&oe=60E2DA2C"
+  },
+  "views": 257000
+},
+{
+  "id": "6",
+  "createdAt": "   18hr ago",
+  "title": "Superman",
+  "thumbnail": "https://wallpapercave.com/wp/wp8747796.jpg",
+  "videoUrl": "",
+  "duration": 564,
+  "user": {
+    "name": "Rishav Kumar   ",
+    "image": "https://avatars.githubusercontent.com/u/81378195?s=400&u=1a4e72c96a92be6b25e3e4090847184b5adf4f91&v=4"
+  },
+  "views": 257000
+}, {
+  "id": "7",
+  "createdAt": "   11hr ago",
+  "title": "Thor",
+  "thumbnail": "https://wallpapercave.com/wp/wp5172019.jpg",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Rishav Kumar   ",
+    "image": "https://avatars.githubusercontent.com/u/81378195?s=400&u=1a4e72c96a92be6b25e3e4090847184b5adf4f91&v=4"
+  },
+  "views": 257000
+}, {
+  "id": "8",
+  "createdAt": "   1 day ago",
+  "title": "Capatin America",
+  "thumbnail": "https://wallpapercave.com/uwp/uwp942201.jpeg",
+  "videoUrl": "",
+  "duration": 394,
+  "user": {
+    "name": "Rishav Kumar   ",
+    "image": "https://avatars.githubusercontent.com/u/81378195?s=400&u=1a4e72c96a92be6b25e3e4090847184b5adf4f91&v=4"
+  },
+  "views": 257000
+}
+
+]
